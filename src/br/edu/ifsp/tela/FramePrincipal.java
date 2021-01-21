@@ -188,8 +188,8 @@ public class FramePrincipal extends JFrame {
 		getContentPane().add(btnExluir);
 		
 		JLabel lblNewLabel_3 = new JLabel("");
-		lblNewLabel_3.setIcon(new ImageIcon("C:\\Users\\Thiago\\Desktop\\crud_novo2.png"));
-		lblNewLabel_3.setBounds(211, 405, 100, 44);
+		lblNewLabel_3.setIcon(new ImageIcon("C:\\Users\\Thiago\\Desktop\\crud_novo.png"));
+		lblNewLabel_3.setBounds(219, 405, 94, 44);
 		getContentPane().add(lblNewLabel_3);
 		
 	}
